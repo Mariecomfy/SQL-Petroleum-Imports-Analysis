@@ -1,0 +1,77 @@
+# SQL Petroleum Imports Analysis (2009–2010)
+
+## Project Overview
+
+This project analyses petroleum import data for 2009 and 2010 using Microsoft SQL Server. The aim was to explore import trends, compare yearly performance, and answer business questions using SQL.
+
+## Objectives
+
+- Analyse petroleum imports for 2009 and 2010.
+- Compare import trends across the two years.
+- Identify key importing companies, countries, ports, and products.
+- Practice SQL querying and data analysis techniques.
+
+## Dataset
+
+The dataset contains petroleum import records for the years 2009 and 2010. It includes information such as:
+
+- Importing Company
+- Product Name
+- Country of Origin
+- Port of Entry
+- Quantity Imported
+- API Gravity
+- Import Date
+
+## Tools Used
+
+- Microsoft SQL Server
+- SQL Server Management Studio (SSMS)
+- Microsoft Excel
+- GitHub
+
+## SQL Skills Demonstrated
+
+- SELECT
+- WHERE
+- ORDER BY
+- GROUP BY
+- HAVING
+- INNER JOIN
+- Aggregate Functions (SUM, AVG, COUNT)
+- Subqueries
+- DISTINCT
+- Percentage Calculations
+
+## Business Questions Answered
+
+Some of the questions explored include:
+
+- Which companies imported the highest quantities?
+- Which products were imported in both 2009 and 2010?
+- Which ports were active in both years?
+- Which products increased in import quantity from 2009 to 2010?
+- Which countries exported more products in 2010 than in 2009?
+- What percentage of total imports did each country contribute?
+- How does API Gravity compare across different countries?
+
+## Key Takeaways
+
+- Identified the top importing companies and products.
+- Compared import activity between 2009 and 2010.
+- Analysed country-level contributions to total imports.
+- Demonstrated the use of SQL to solve real-world business problems.
+
+## Repository Contents
+
+- Petroleum_Imports_Analysis.sql – SQL queries used for the analysis.
+- README.md – Project documentation.
+- Screenshots – Sample query outputs (optional).
+
+## Author
+
+**Comfort Ogunyemi**
+
+Petroleum Engineer | Data Analytics Enthusiast | Aspiring AI & Machine Learning Engineer
+
+GitHub: https://github.com/Mariecomfy
